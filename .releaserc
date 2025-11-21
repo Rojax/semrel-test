@@ -26,15 +26,16 @@
                 "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
             }
         ],
-        "@semantic-release/github",
-        {
-            "assets": [
-                {
-                    "path": "documents-*.zip",
-                    "type": "other"
-                }
-            ]
-        }
+        [
+            "@semantic-release/github",
+            {
+                "assets": [
+                    {
+                        "path": "documents-*.zip"
+                    }
+                ]
+            }
+        ]
     ],
     "preset": "conventionalcommits"
 }
