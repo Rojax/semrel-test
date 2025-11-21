@@ -1,3 +1,9 @@
+## [1.2.1](https://github.com/Rojax/semrel-test/compare/v1.2.0...v1.2.1) (2025-11-21)
+
+### Bug Fixes
+
+* fixed release path ([fd55a8b](https://github.com/Rojax/semrel-test/commit/fd55a8b94a87b01f32f893549e75fb9e0e9244ba))
+
 ## [1.2.0](https://github.com/Rojax/semrel-test/compare/v1.1.0...v1.2.0) (2025-11-21)
 
 ### Features
